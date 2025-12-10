@@ -24,6 +24,7 @@ It involves **five major parts**, from data preprocessing to model deployment.
 ## 📊 Dataset Description
 
 The project uses the **IMDb Movie Review Dataset**, which contains text reviews of movies along with their associated sentiment labels.
+For Dataset Use Any Review Datasets like imdb,  ecommerce customer reviews etc
 
 ### **Attributes Used**
 | Attribute Name | Description |
@@ -199,6 +200,7 @@ Deploy app on cloud (Streamlit Cloud / AWS / Hugging Face Spaces).
 
 👨‍💻 Author
 
-Developed by: [Your Name]
+Developed by: [RDSSASI]
 Project: Intelligent Customer Feedback Analysis System using AI
+
 🎓 For Academic / Research Submission
